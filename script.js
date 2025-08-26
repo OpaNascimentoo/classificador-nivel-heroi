@@ -1,5 +1,5 @@
 let nome = "Laryssa";
-let xp = 7500;
+let xp = 7000;
 let nivel = "";
 
 if (xp < 1000) {
@@ -20,4 +20,5 @@ if (xp < 1000) {
     nivel = "Radiante";
 }
 
-console.log(`O Herói de nome **${nome}** está no nível de **${nivel}**`);
+
+document.getElementById("resultado").innerHTML = `O Herói de nome <strong>${nome}</strong> está no nível de <strong>${nivel}</strong>`;
