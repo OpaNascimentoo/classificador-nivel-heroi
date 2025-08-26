@@ -32,8 +32,6 @@ Abra o arquivo index.html no navegador.
 
 Veja os heróis e seus respectivos níveis renderizados na tela.
 
-📸 Veja o Projeto
-(https://)
 
 ✨ Autor
 Feito com 💙 por Laryssa Nascimento
